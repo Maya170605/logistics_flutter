@@ -1,3 +1,3 @@
 # flutter_logist
 
-A new Flutter project.
+Flutter Dart приложение для работы с бэкэндом curs42.
